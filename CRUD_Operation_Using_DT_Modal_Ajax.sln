@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD_Operation_Using_DT_Modal_Ajax", "CRUD_Operation_Using_DT_Modal_Ajax.csproj", "{90674C11-5DDA-4B62-81DB-89DABDA8CC79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90674C11-5DDA-4B62-81DB-89DABDA8CC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90674C11-5DDA-4B62-81DB-89DABDA8CC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90674C11-5DDA-4B62-81DB-89DABDA8CC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90674C11-5DDA-4B62-81DB-89DABDA8CC79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D1B10B5-A655-4864-8C58-94F98BF11259}
+	EndGlobalSection
+EndGlobal

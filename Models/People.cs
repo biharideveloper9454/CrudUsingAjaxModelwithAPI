@@ -14,5 +14,8 @@ namespace CRUD_Operation_Using_DT_Modal_Ajax.Models
 
         [Display(Name = "Name")]
         public string name { get; set; }
+
+        [Display(Name ="Country Name")]
+        public string Country { get; set; }
     }
 }

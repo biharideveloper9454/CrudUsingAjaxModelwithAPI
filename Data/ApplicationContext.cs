@@ -11,5 +11,6 @@ namespace CRUD_Operation_Using_DT_Modal_Ajax.Data
     {
         public ApplicationContext(DbContextOptions<ApplicationContext>options) : base(options) { }
         public DbSet<People> Peoples { get; set; }
+        public DbSet<Department> Departments { get; set; }
     }
 }

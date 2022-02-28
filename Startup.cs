@@ -56,7 +56,7 @@ namespace CRUD_Operation_Using_DT_Modal_Ajax
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Department}/{action=Index}/{id?}");
             });
         }
     }

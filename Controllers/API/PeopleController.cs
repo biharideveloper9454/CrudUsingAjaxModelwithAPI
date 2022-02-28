@@ -48,6 +48,7 @@ namespace CRUD_Operation_Using_DT_Modal_Ajax.Controllers
                              where c.id == obj.id
                              select c).FirstOrDefault();
             people.name = obj.name;
+            people.Country = obj.Country;
             context.Update(people);
             context.SaveChanges();
             return Ok();
@@ -62,6 +63,7 @@ namespace CRUD_Operation_Using_DT_Modal_Ajax.Controllers
             context.Peoples.Remove(people);
             context.SaveChanges();
         }
+
     }
 
 }

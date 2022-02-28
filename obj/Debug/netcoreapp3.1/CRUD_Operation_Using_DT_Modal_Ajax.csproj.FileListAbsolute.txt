@@ -147,5 +147,5 @@ C:\Users\sunilp2\source\repos\CRUD_Operation_Using_DT_Modal_Ajax\bin\Debug\netco
 C:\Users\sunilp2\source\repos\CRUD_Operation_Using_DT_Modal_Ajax\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\sunilp2\source\repos\CRUD_Operation_Using_DT_Modal_Ajax\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\sunilp2\source\repos\CRUD_Operation_Using_DT_Modal_Ajax\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sunilp2\source\repos\CRUD_Operation_Using_DT_Modal_Ajax\obj\Debug\netcoreapp3.1\CRUD_Operation_Using_DT_Modal_Ajax.csproj.AssemblyReference.cache
 C:\Users\sunilp2\source\repos\CRUD_Operation_Using_DT_Modal_Ajax\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutPeople.cshtml.g.cs
+C:\Users\sunilp2\source\repos\CRUD_Operation_Using_DT_Modal_Ajax\obj\Debug\netcoreapp3.1\Razor\Views\Department\Index.cshtml.g.cs
